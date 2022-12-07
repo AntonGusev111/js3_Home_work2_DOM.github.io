@@ -1,0 +1,43 @@
+.main_field{
+   margin-left: 25%;
+   display: inline-block;
+   width: 700px;
+
+}
+ .field{
+   background-color: goldenrod;
+   display: inline-block;
+   border: 1px solid black;
+   width: 150px;
+   height: 150px;
+ }
+
+ .field2{
+   display: inline-block;
+   background-color: goldenrod;
+   border: 1px solid black;
+   width: 150px;
+   height: 150px;
+ }
+
+ .field3{
+   display: inline-block;
+   background-color: goldenrod;
+   border: 1px solid black;
+   width: 150px;
+   height: 150px;
+ }
+
+ .field4{
+   display: inline-block;
+   background-color: goldenrod;
+   border: 1px solid black;
+   width: 150px;
+   height: 150px;
+ }
+
+ img {
+   width: 150px;
+   height: 150px;
+   text-align: center;
+ }
